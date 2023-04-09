@@ -4,6 +4,9 @@ Some boundaries around our project.
 
 ## External
 
+- Only one week to finish project
+- 3 member in the group instead of 4
+- Finding common availability to work together
 <!--
   constraints coming from the outside that your team has no control over. these may include:
   - project deadlines
@@ -13,6 +16,7 @@ Some boundaries around our project.
 
 ## Internal: Involuntary
 
+- Expected problems with connection and devices
 <!--
   constraints that come from within your team, and you have no control over. they may include:
   - each of your individual skill levels
