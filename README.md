@@ -1,6 +1,7 @@
-# Name of project
+# loruki rebuild
 
-> A longer description
+> Loruki is a cloud hosting platform which allows us to deploy our project
+> easily. We are trying to rebuild this web site with HTML and CSS.
 
 ## Table of contents
 
