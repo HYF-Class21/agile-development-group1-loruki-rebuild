@@ -62,3 +62,12 @@ based on how long you've been stuck on the same problem:
 1. _0 -> 30 min_: Try on your own
 2. _30 -> 60 min_: Ask your group for help
 3. _60+ min_: Tag your coaches in Slack or GitHub
+
+## Project's Assignments
+
+For this project we divided the 'loruki' website into three sections on which
+each member will work.
+
+- Juan will work on 'Homepage'
+- Mervat will work on 'Features'
+- Hsia will work on 'Docs'
