@@ -65,8 +65,9 @@ based on how long you've been stuck on the same problem:
 
 ## Project's Assignments
 
-For this project we divided the 'loruki' website into three sections on which each member will work.
+For this project we divided the 'loruki' website into three sections on which
+each member will work.
+
 - Juan will work on 'Homepage'
 - Mervat will work on 'Features'
 - Hsia will work on 'Docs'
-
