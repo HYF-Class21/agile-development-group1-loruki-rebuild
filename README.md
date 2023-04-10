@@ -33,8 +33,7 @@
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
+- Browser [Microsoft Edge, Google Chrome]
 - ...
 
 ## Setup
