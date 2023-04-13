@@ -107,7 +107,7 @@ to see a main section for the website**
 
 ## 4. Main section or cli
 
-** As a user I want to see a main section for the website **
+**As a user I want to see a main section for the website**
 
 ### Task n1
 
@@ -123,8 +123,7 @@ to see a main section for the website**
 
 ## 6. footer
 
-** As a user I want to see a footer where I can find social media account
-links**
+**As a user I want to see a footer where I can find social media account links**
 
 - As a user I want to see social media icons and links on the footer.
 - This user story is developed on branch `footer`
