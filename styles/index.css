@@ -138,11 +138,10 @@ img {
 }
 
 .navbar a:hover {
-    border-bottom: 2px #fff solid;
-  }
+  border-bottom: 2px #fff solid;
+}
 
 /* Footer */
 .footer .social a {
   margin: 0 10px;
 }
-
