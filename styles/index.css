@@ -127,7 +127,7 @@ img {
 }
 
 .bg-light,
-sty.btn-light {
+.btn-light {
   background-color: var(--light-color);
   color: #333;
 }
