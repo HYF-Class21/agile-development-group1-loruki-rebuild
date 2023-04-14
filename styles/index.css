@@ -44,11 +44,11 @@ img {
 }
 
 .flex {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
 
 /* Navbar */
 .navbar {
@@ -99,8 +99,6 @@ img {
   padding: 0 40px;
 }
 
-
-
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -129,7 +127,7 @@ img {
 }
 
 .bg-light,
-.btn-light {
+sty.btn-light {
   background-color: var(--light-color);
   color: #333;
 }
