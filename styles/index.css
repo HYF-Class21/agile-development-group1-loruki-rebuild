@@ -67,10 +67,6 @@ img {
   margin: 0 5px;
 }
 
-.navbar a:hover {
-  border-bottom: 2px #fff solid;
-}
-
 .navbar .flex {
   justify-content: space-between;
 }
@@ -141,7 +137,12 @@ img {
   color: #fff;
 }
 
+.navbar a:hover {
+    border-bottom: 2px #fff solid;
+  }
+
 /* Footer */
 .footer .social a {
   margin: 0 10px;
 }
+
