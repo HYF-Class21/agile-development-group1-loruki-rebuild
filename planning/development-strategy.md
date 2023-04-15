@@ -131,16 +131,19 @@ On homepage.html
 
 On homepage.html
 
--add `div` tag with class value of "showcase-form card" -add `h2` tag with text
-value of "Request a Demo" in between. -add a `form` tag -add a `div` with class
-value of "form-control". -add a `input` tag with type value of "text", name
-value of "name", placeholder of "Name" and make it "required". -add a `div` with
-class value of "form-control". -add a `input` tag with type value of "company",
-name value of "company", placeholder of "Company" and make it "required". -add a
-`div` with class value of "form-control". -add a `input` tag with type value of
-"email", name value of "email", placeholder of "Email" and make it "required".
--add a `input` tag with a type value of "submit", name value of "Send" and a
-class value of "btn btn-primary"
+- add `div` tag with class value of "showcase-form card"
+- add `h2` tag with text value of "Request a Demo" in between.
+- add a `form` tag -add a `div` with class value of "form-control".
+- add a `input` tag with type value of "text", name value of "name", placeholder
+  of "Name" and make it "required".
+- add a `div` with class value of "form-control".
+- add a `input` tag with type value of "company",name value of "company",
+  placeholder of "Company" and make it "required".
+- add a `div` with class value of "form-control".
+- add a `input` tag with type value of "email", name value of "email",
+  placeholder of "Email" and make it "required".
+- add a `input` tag with a type value of "submit", name value of "Send" and a
+  class value of "btn btn-primary"
 
 ### Task n3
 
@@ -149,14 +152,15 @@ On index.css
 - create a `comment` to separate this section visually.
 - add `.showcase` with height value of "400"; background-color "#047aed"; color
   "#fff"; position "relative". -add `.showcase h1` with font size of "40px".
-  -add `.showcase p` with margin of "20px 0". -add `.showcase .grid` with
-  overflow "visible"; grid-template-columns "55% auto"; gap "30px". -add
-  `.showcase-form` with position "relative"; top "60px"; height "350px"; witdth
-  "400px"; padding "40px"; z-index "100"; justify-self "flex-end". -add
-  `.showcase-form .formcontrol` with margin "30px 0". -add
-  `.showcase-form input` with input type set to text; border "0"; border-bottom
-  "1px solid #b4ecb"; width "100%"; padding "3px"; font-size "16px". -add
-  `showcase-form input:focus` with outline "none".
+- add `.showcase p` with margin of "20px 0". -add `.showcase .grid` with
+  overflow "visible"; grid-template-columns "55% auto"; gap "30px".
+- add `.showcase-form` with position "relative"; top "60px"; height "350px";
+  witdth "400px"; padding "40px"; z-index "100"; justify-self "flex-end".
+- add `.showcase-form .formcontrol` with margin "30px 0".
+- add `.showcase-form input` with input type set to text; border "0";
+  border-bottom "1px solid #b4ecb"; width "100%"; padding "3px"; font-size
+  "16px".
+- add `showcase-form input:focus` with outline "none".
 
 <!-- Here the video continues the styling of the buttons and showcase responsiveness but thats ouside of must-have's so i left it out to be added after. >
 <-->
@@ -171,22 +175,24 @@ As a user I want to see a main section for the website
 
 On homepage.html
 
-- create a `comment` to separate this section visually. -add `section` tag with
-  class value of "cli" -add `div` tag with class value of "container grid" -add
-  `img` tag with an image linked from "images" folder. alt value "" -add `div`
-  tag with class value of "card" -add `h3` tag with text value in between -add
-  another `div` with the same class value of "card". -add `h3` tag with text
-  value in between.
+- create a `comment` to separate this section visually.
+- add `section` tag with class value of "cli"
+- add `div` tag with class value of "container grid"
+- add `img` tag with an image linked from "images" folder. alt value ""
+- add `div`tag with class value of "card" -add `h3` tag with text value in
+  between
+- add another `div` with the same class value of "card".
+- add `h3` tag with text value in between.
 
 ### Task n2
 
 On index.css
 
-- create a `comment` to separate this section visually. -add `.cli .grid` with a
-  value of grid-template-columns of "repeat(3, 1fr)"; grid-template-rows "repeat
-  (2, 1fr)"
+- create a `comment` to separate this section visually.
+- add `.cli .grid` with a value of grid-template-columns of "repeat(3, 1fr)";
+  grid-template-rows "repeat (2, 1fr)"
   <!-- Don't understand this completely><-->
-  -add `.cli .grid` with grid column "1 / span 2"; grid-row "1 / span 2".
+- add `.cli .grid` with grid column "1 / span 2"; grid-row "1 / span 2".
 
 ## 5. Languages
 
@@ -209,10 +215,10 @@ As a user I want to see which supported languages the site offers.
 
 ### Task n2
 
--- create a `comment` to separate this section visually. -add `.languages .card`
-with text-align "center"; margin "18px 10px 40px". -add `.languages .flex` with
-flex-wrap "wrap". -add `.languages .card h4` with font-size "20px"; margin-botto
-"10px".
+- create a `comment` to separate this section visually.
+- add `.languages .card`with text-align "center"; margin "18px 10px 40px".
+- add `.languages .flex` with flex-wrap "wrap".
+- add `.languages .card h4` with font-size "20px"; margin-bottom "10px".
 
 ## 6. footer
 
